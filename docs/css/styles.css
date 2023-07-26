@@ -1,0 +1,13 @@
+body{
+    background: rgba(68, 68, 68, 0.98);
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins", 'Marlett', 'sans-serif';
+}
+
+h1{
+    color: orangered;
+
+}
