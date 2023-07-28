@@ -9,5 +9,15 @@ body{
 
 h1{
     color: orangered;
+}
 
+a{
+    text-decoration: none;
+    text-underline: none;
+}
+
+a:hover{
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
